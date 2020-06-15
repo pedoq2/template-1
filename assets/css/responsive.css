@@ -1,0 +1,236 @@
+/* ++++++++++++++++++++++++++++ */
+/* +++++++ RESPONSIVE +++++++++ */
+/* ++++++++++++++++++++++++++++ */
+
+@media (max-width:2560px){
+
+}
+/* end 320px; */
+
+@media (max-width:1440px){
+	.row.footer-col {
+		padding: 30px 0 30px 0;
+		margin-left: 160px;
+	}
+	.row.bot-footer {
+		margin-left: 10px;
+	}
+	.owl-gallery-list .owl-nav {
+		position: absolute;
+		top: -60px;
+		right: 0px;
+	}
+	.owl-gallery-list i.fas.fa-chevron-left {
+		border: 1px solid;
+		border-radius: 5px;
+		top: 0;
+		right: 58px;
+		padding: 8px 9px;
+		background-color: white;
+		color: black;
+		position: absolute;
+		font-size: 30px;
+	}
+	.owl-gallery-list i.fas.fa-chevron-right {
+		border: 1px solid;
+		border-radius: 5px;
+		top: 0;
+		right: 15px;
+		padding: 8px 9px;
+		background-color: white;
+		color: black;
+		position: absolute;
+		font-size: 30px;
+	}
+	.owl-slide-image .owl-nav {
+		position: absolute;
+		top: 152px;
+		right: -16px;
+	}
+	.owl-slide-image i.fas.fa-chevron-left {
+		border: 3px solid;
+		border-radius: 50%;
+		top: 0px;
+		right: 1379px;
+		padding: 12px 17px;
+		color: white;
+		position: absolute;
+		font-size: 23px;
+	}
+	.owl-slide-image i.fas.fa-chevron-right {
+		border: 3px solid;
+		border-radius: 50%;
+		top: 0;
+		right: 36px;
+		padding: 12px 17px;
+		color: white;
+		position: absolute;
+		font-size: 23px;
+		opacity: 0.5;
+	}
+	section.highlight .left {
+		padding: 98px;
+	}
+	.btn-link {
+		float: right;
+		padding-top: 0;
+		padding-right: 28px;
+	}
+	section.gallery-slider .title {
+		padding-top: 12px;
+		font-size: 30px;
+		font-weight: 900;
+	}
+	.owl-gallery-list i.fas.fa-chevron-right:hover {
+		opacity: 1.0;
+		color: black;
+	}
+	
+}
+/* end 320px; */
+
+@media (max-width:1366px){
+	.owl-slide-image .owl-nav {
+		position: absolute;
+		top: 139px;
+		right: -16px;
+	}
+	.owl-slide-image i.fas.fa-chevron-left {
+		border: 3px solid;
+		border-radius: 50%;
+		top: 0px;
+		right: 1310px;
+		padding: 12px 17px;
+		color: white;
+		position: absolute;
+		font-size: 23px;
+	}
+}
+/* end 320px; */
+
+@media (max-width:1024px){
+	div#main-navbar ul li a {
+		padding: 1px 57px;
+		color: white;
+		font-size: 18px;
+	}
+	section.banner .top-content {
+		position: absolute;
+		top: 7%;
+		color: #fff;
+		left: 10%;
+		width: 45%;
+		padding: 30px;
+	}
+	section.banner .title {
+		position: absolute;
+		top: 20%;
+		color: #fff;
+		left: 10%;
+		width: 45%;
+		padding: 30px;
+		font-size: 40px;
+		font-weight: 900;
+	}
+	section.banner .bot-content {
+		position: absolute;
+		top: 50%;
+		color: #fff;
+		left: 10%;
+		width: 67%;
+		padding: 30px;
+	}
+	.owl-slide-image .owl-nav {
+		position: absolute;
+		top: 96px;
+		right: -16px;
+	}
+	.owl-slide-image i.fas.fa-chevron-left {
+		border: 3px solid;
+		border-radius: 50%;
+		top: 0px;
+		right: 967px;
+		padding: 12px 17px;
+		color: white;
+		position: absolute;
+		font-size: 23px;
+	}
+	.row.footer-col {
+		padding: 30px 0 30px 0;
+		margin-left: 92px;
+	}
+}	
+/* end 320px; */
+
+@media (max-width:768px){
+	button.navbar-toggler {
+		margin-left: 46%;
+	}
+	ul.navbar-nav.mx-auto {
+		text-align: center;
+	}
+	section.banner .top-content {
+		position: absolute;
+		top: 0%;
+		color: #fff;
+		left: 10%;
+		width: 45%;
+		padding: 30px;
+		font-size: 13px;
+	}
+	section.banner .title {
+		position: absolute;
+		top: 12%;
+		color: #fff;
+		left: 10%;
+		width: 45%;
+		padding: 30px;
+		font-size: 32px;
+		font-weight: 900;
+	}
+	section.banner .bot-content {
+		position: absolute;
+		top: 43%;
+		color: #fff;
+		left: 10%;
+		width: 71%;
+		padding: 30px;
+		font-size: 13px;
+	}
+	.owl-slide-image .owl-nav {
+		position: absolute;
+		top: 71px;
+		right: -16px;
+	}
+	.owl-slide-image i.fas.fa-chevron-left {
+		border: 1px solid;
+		border-radius: 5px;
+		top: 0px;
+		right: 716px;
+		padding: 12px 17px;
+		color: white;
+		position: absolute;
+		font-size: 23px;
+	}
+}
+/* end 320px; */
+
+@media (max-width:667px){
+	
+}
+/* end 320px; */
+
+@media (max-width:425px){
+	
+}
+/* end 320px; */
+
+@media (max-width:375px){
+	
+}
+/* end 320px; */
+
+@media (max-width:320px){
+	
+}
+/* end 320px; */
